@@ -8,7 +8,7 @@
 а) status б) init в) commit
 
 4. вставьте пропущенный элемент команды сокращенного вывода статуса "$ git _ "
-а) status -a б) status -s в) status -v
+а) status -a б) status -s в) status -r
 
 5. 
 а) б) в) 
